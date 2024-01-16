@@ -1,5 +1,11 @@
 @import url(//fonts.googleapis.com/css?family=Lato:300:400);
 
+#pageText p {
+  color: #fff;
+  font: arial;
+  font-style: normal;
+}
+
 .topnav {
   overflow: hidden;
   background-color: black;

@@ -1,0 +1,9 @@
+@import url(//fonts.googleapis.com/css?family=Lato:300:400);
+
+.infoText {
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+    font-size: 32px;
+    color: #fff
+  }
