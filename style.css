@@ -108,6 +108,8 @@ h1 {
   font-weight: 300;
   letter-spacing: 2px;
   font-size: 48px;
+  text-decoration: underline #fff;
+  text-underline-offset: 10px;
 }
 
 h2 {
